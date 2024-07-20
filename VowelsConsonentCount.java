@@ -23,6 +23,7 @@
 //}
 
 
+//-------------------------------Repetitions is not allowed---------------------------------
 
 
 package Java_Practice_codes;
